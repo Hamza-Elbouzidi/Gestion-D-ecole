@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application Gestion D'ecole", "WindowsFormsApp1\Application Gestion D'ecole.csproj", "{4D4F7AB9-DF73-40E6-9F05-1D367684B859}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4AC86CDC-5E07-488F-B3E5-2A34EE4A069A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4F7AB9-DF73-40E6-9F05-1D367684B859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4F7AB9-DF73-40E6-9F05-1D367684B859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4F7AB9-DF73-40E6-9F05-1D367684B859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4F7AB9-DF73-40E6-9F05-1D367684B859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC86CDC-5E07-488F-B3E5-2A34EE4A069A}.Debug|Any CPU.ActiveCfg = Debug
+		{4AC86CDC-5E07-488F-B3E5-2A34EE4A069A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF43D07-EE51-498C-9324-947854170A72}
+	EndGlobalSection
+EndGlobal
